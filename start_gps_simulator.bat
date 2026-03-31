@@ -1,0 +1,6 @@
+@echo off
+echo Starting GPS Simulator...
+cd backend
+echo Starting GPS simulation for bus tracking...
+python gps_simulator.py
+pause
