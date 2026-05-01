@@ -1,0 +1,26 @@
+# Environment variables
+.env
+
+# Flask session files
+flask_session/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+
+

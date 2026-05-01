@@ -1,0 +1,21 @@
+routeid,destination,stops,busnumbers,city
+ROUTE01,GRAPHIC ERA HILL UNIVERSITY,Clock Tower (Ghanta Ghar);Rajpur Road;Rajpur Extension;Kishanpur;Nanda Ki Chowki,"BUS015;BUS042;BUS067;BUS031",Dehradun
+ROUTE02,GRAPHIC ERA HILL UNIVERSITY,ISBT Stand;Rispana Bridge;Patel Nagar;Majra;Kabra Bazaar,"BUS008;BUS053;BUS024;BUS071",Dehradun
+ROUTE03,GRAPHIC ERA HILL UNIVERSITY,Clement Town;Ballupur;Kashipur Road;Karanpur;Raipur Gate,"BUS045;BUS011;BUS062;BUS039",Dehradun
+ROUTE04,GRAPHIC ERA HILL UNIVERSITY,Sahastradhara Road;Dalanwala;Old Survey Chowk;Prem Nagar;Sapt Rishi Ashram,"BUS028;BUS074;BUS019;BUS056",Dehradun
+ROUTE05,GRAPHIC ERA HILL UNIVERSITY,Mussoorie Diversion;Subhash Road;Ram Nagar;Rajpur Bypass;Bindal Market,"BUS064;BUS035;BUS009;BUS047",Dehradun
+ROUTE06,GRAPHIC ERA HILL UNIVERSITY,Doiwala Road;Bhatta Basti;Laldarwaza;Khanwala;Banawali Gate,"BUS022;BUS050;BUS078;BUS014",Dehradun
+ROUTE07,GRAPHIC ERA HILL UNIVERSITY,Jakhan;Kashmere Gate;NDMC;Clement Town Market;Aman Vihar Gate,"BUS041;BUS065;BUS027;BUS072",Dehradun
+ROUTE08,GRAPHIC ERA HILL UNIVERSITY,Rajpur Road (North);Rajpur Chowk;Aamwala;Lower Rajpur;Vasantkunj Gate,"BUS012;BUS059;BUS038;BUS077",Dehradun
+ROUTE09,GRAPHIC ERA HILL UNIVERSITY,Doon Hospital;Astley Hall;Parade Ground;Kaulagarh Road;Dalanwala Extension,"BUS006;BUS048;BUS021;BUS060",Dehradun
+ROUTE10,GRAPHIC ERA HILL UNIVERSITY,Mahendra Chowk;Govind Ballabh Pant Road;Paltan Bazaar;Happy Valley;Shakti Vihar,"BUS052;BUS017;BUS073;BUS033",Dehradun
+ROUTE11,GRAPHIC ERA HILL UNIVERSITY,Lacework Chowk;Survey Chowk;Anand Nagar;Chakrata Road;Aachhal Nagar,"BUS029;BUS061;BUS007;BUS044",Dehradun
+ROUTE12,GRAPHIC ERA HILL UNIVERSITY,Subhash Road;Amar Vihar;Inder Road;Muni Ki Reti;Thali Sakran Gate,"BUS070;BUS023;BUS051;BUS016",Dehradun
+ROUTE13,GRAPHIC ERA HILL UNIVERSITY,Malsi Deer Park;Balawala;Karanpur Road;Kharapur;Jyoti Vihar Gate,"BUS037;BUS010;BUS068;BUS025",Dehradun
+ROUTE14,GRAPHIC ERA HILL UNIVERSITY,Nehruganj;Govardhan Colony;Arcadia;Barkot;Niranjanpur Gate,"BUS055;BUS046;BUS020;BUS079",Dehradun
+ROUTE15,GRAPHIC ERA HILL UNIVERSITY,Vikas Nagar;Forest Research Institute;FRI Gate;Sahstrdhara Gate;Tilak Vihar,"BUS034;BUS005;BUS063;BUS018",Dehradun
+ROUTE16,GRAPHIC ERA HILL UNIVERSITY,Rishikul Yogshala;Jogiwala;Vaishali Nagar;Gyan Vihar;Moti Nagar,"BUS013;BUS049;BUS030;BUS057",Dehradun
+ROUTE17,GRAPHIC ERA HILL UNIVERSITY,Rishi Road;New Road;Landour;Ruskin Road;Ashram Gate,"BUS069;BUS002;BUS075;BUS040",Dehradun
+ROUTE18,GRAPHIC ERA HILL UNIVERSITY,Selaqui;Karanpur;Selaqui Chowk;Bhatta Basti Extension;Vikas Extension,"BUS026;BUS032;BUS058;BUS001",Dehradun
+ROUTE19,GRAPHIC ERA HILL UNIVERSITY,Yamuna Nagar;Transport Nagar;Jatwara;Mandakini;Karan Vihar,"BUS080;BUS054;BUS043;BUS012",Dehradun
+ROUTE20,GRAPHIC ERA HILL UNIVERSITY,Balbir Chowk;Anand Vihar;Prem Vihar;Aman Nagar;Ramdev Vihar,"BUS004;BUS066;BUS036;BUS076",Dehradun
